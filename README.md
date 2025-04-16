@@ -13,4 +13,4 @@ mv SAMARTH_AES_TEST_FINAL_Done.ipynb AES/
 
 git add .
 git commit -m "Moved files into AES subfolder"
-git push origin main
+git push origin master
